@@ -24,7 +24,8 @@ The analytical process involved:
 - Creation of interactive charts and visualisations. 
 
 ## **Dashboard**
-(<img width="940" height="530" alt="Secure Dashboard" src="https://github.com/user-attachments/assets/f34b5da5-a979-4e28-987f-904c516f47ce" />
+(<img width="938" height="546" alt="Secure Dashboard" src="https://github.com/user-attachments/assets/e89da072-44ea-40b5-8d7c-48692cbb5780" />
+
 )
 
 ## **Key Findings**
@@ -38,9 +39,9 @@ For Patient Demographic Analysis, Female patients accounted for 51% of total pat
 
 In terms of age distribution, adults aged 36–59 years constituted the largest patient group, accounting for 37% of total patients, followed by elderly patients aged 60 years and above, who represented 31%.
 
-For Departmental Performance, analysis revealed that while General Medicine recorded the highest number of patient visits, accounting for 25% of total patients, Orthopaedics generated the largest share of the hospital's total bills, contributing 33%, hightlighting differences in patient volume and billing contributions across departments. 
+For Departmental Performance, analysis revealed that while General Department recorded the highest number of patient visits and Insurance, accounting for 25% of total patients and 25% of Insurance, Orthopedics generated the largest share of the hospital's total bills and  Average length of stay, contributing 33% and 28% respectively. This highlights differences in patient volume, billing contributions and resource utilisation across departments.
 
-Further analysis of insurance coverage across departments and diagnoses identified General Medicine as having the highest recorded insurance value ($186.20), while Pneumonia recorded the highest insurance value among diagnoses ($33.10).
+Further analysis of insurance coverage by diagnosis identified Pneumonia as the diagnosis with the highest recorded insurance value ($33.10), indicating its relatively higher contribution to insurance claims compared to other diagnoses.
 
 Analysis of quarterly admission and billing trends across 2024 and 2025 revealed fluctuations in both patient admissions and revenue generation. This highlights the importance of continuously monitoring patient demand and financial performance to identify emerging trends, anticipate periods of increased demand and support effective resource allocation and operational planning.
 
